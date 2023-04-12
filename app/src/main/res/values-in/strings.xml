@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UTS</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="add_maker">Tambah Maker</string>
+    <string name="current_location">Lokasi Saat ini</string>
+    <string name="heading">Arah : 0.0</string>
+</resources>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">UTS</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="appwidget_text" translatable="false">Lang : -7.777199063241162</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+    <string name="add_maker">Add Maker</string>
+    <string name="current_location">Current Location</string>
+    <string name="heading">Heading: 0.0</string>
+    <string name="lang">TextView</string>
+    <string name="appwidget_text2" translatable="false">Long : 110.35999792060993</string>
+</resources>
